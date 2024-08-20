@@ -1,0 +1,1 @@
+# next-husky-tailwind-template
